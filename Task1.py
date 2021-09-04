@@ -1,6 +1,6 @@
 #1 WAP for addition, subtraction, multiplication, and division:-
 
-'''num1 = int(input("Enter First Number: "))
+num1 = int(input("Enter First Number: "))
 num2 = int(input("Enter Second Number: "))
 
 print("Enter which operation would you like to perform?")
@@ -18,7 +18,7 @@ elif ch == '/':
 else:
     print("Input character is not recognized!")
 
-print(num1, ch , num2, ":", result)'''
+print(num1, ch , num2, ":", result)
 
 #2 WAP to calculate simple interest:-
 
@@ -101,6 +101,6 @@ print("Number in reverse: ", rev)'''
 
 #10 WAP to take centigrade temperature and convert it into fahrenheit temperature (f= 1.8*c + 32)
 
-celsius = float(input("Enter temperature in celsius: "))
+'''celsius = float(input("Enter temperature in celsius: "))
 fahrenheit = (celsius * 9/5) + 32
-print("Temperature in Fahrenheit is: ", fahrenheit)
+print("Temperature in Fahrenheit is: ", fahrenheit)'''
